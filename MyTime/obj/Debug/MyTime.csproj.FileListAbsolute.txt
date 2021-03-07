@@ -1,0 +1,7 @@
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\MyTime.csprojAssemblyReference.cache
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\CyanJamClockInOut.Form1.resources
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\MyTime.Properties.Resources.resources
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\MyTime.csproj.GenerateResource.cache
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\MyTime.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\MyTime.exe
+C:\Users\Thomas\Thomas\Programming\MyTime User Login Program\MyTime\obj\Debug\MyTime.pdb
