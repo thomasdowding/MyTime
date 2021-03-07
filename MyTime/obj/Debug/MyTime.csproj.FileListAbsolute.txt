@@ -1,0 +1,41 @@
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\CyanJamClockInOut.csprojAssemblyReference.cache
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\CyanJamClockInOut.Form1.resources
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\CyanJamClockInOut.csproj.GenerateResource.cache
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\CyanJamClockInOut.csproj.CoreCompileInputs.cache
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\bin\Debug\MyTime.exe.config
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\bin\Debug\MyTime.exe.manifest
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\bin\Debug\MyTime.application
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\bin\Debug\MyTime.exe
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\bin\Debug\MyTime.pdb
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\MyTime.Properties.Resources.resources
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\MyTime.exe.manifest
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\MyTime.application
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\MyTime.exe
+C:\Users\cyanjam\source\repos\CyanJamClockInOut\CyanJamClockInOut\obj\Debug\MyTime.pdb
+C:\Users\cyanjam\source\repos\MyTime\MyTime\bin\Debug\MyTime.exe.config
+C:\Users\cyanjam\source\repos\MyTime\MyTime\bin\Debug\MyTime.exe.manifest
+C:\Users\cyanjam\source\repos\MyTime\MyTime\bin\Debug\MyTime.application
+C:\Users\cyanjam\source\repos\MyTime\MyTime\bin\Debug\MyTime.exe
+C:\Users\cyanjam\source\repos\MyTime\MyTime\bin\Debug\MyTime.pdb
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.csprojAssemblyReference.cache
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\CyanJamClockInOut.Form1.resources
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.Properties.Resources.resources
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.csproj.GenerateResource.cache
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.csproj.CoreCompileInputs.cache
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.exe.manifest
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.application
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.exe
+C:\Users\cyanjam\source\repos\MyTime\MyTime\obj\Debug\MyTime.pdb
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.csprojAssemblyReference.cache
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\CyanJamClockInOut.Form1.resources
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.Properties.Resources.resources
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.csproj.GenerateResource.cache
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.exe.manifest
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.exe
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.pdb
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\bin\Debug\MyTime.exe.config
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\bin\Debug\MyTime.exe.manifest
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\bin\Debug\MyTime.application
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\bin\Debug\MyTime.exe
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\bin\Debug\MyTime.pdb
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\MyTime User Login Program\MyTime\obj\Debug\MyTime.application
